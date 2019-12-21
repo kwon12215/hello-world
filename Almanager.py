@@ -1,5 +1,5 @@
 import numpy as np
-
+#omok almanager.py
 
 def jangmok_down(list_a):
     stone_color1 = 0

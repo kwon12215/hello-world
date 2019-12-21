@@ -1,6 +1,6 @@
 from PyQt5.QtWidgets import *
 
-
+#omok button.py
 class Button(QPushButton):
     ''' PyQt QToolButton
         Custom Button Class hyunseo jjangjjang'''
